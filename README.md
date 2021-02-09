@@ -1,5 +1,9 @@
+# Layout
+
 Layout adalah penyusunan dari elemen-elemen desain yang berhubungan kedalam sebuah bidang sehingga membentuk susunan artistik. Hal ini bisa juga disebut manajemen bentuk dan bidang. Tujuan utama layout adalah menampilkan elemen gambar dan teks agar menjadi komunikatif dalam sebuah cara yang dapat memudahkan pembaca menerima informasi yang disajikan.
+
 # 1.	Linear Layout
+
 Linear Layout adalah jenis layout yang paling simple dimana user menempatkan 1 objek per baris atau kolom secara sejajar. Jadi di dalam setiap baris atau kolom hanya ada 1 objek yang bisa ditempatkan . Linear Layout ada dua jenis yaitu :
 
 •	Linear Layout Vertical (Objek per baris/kesamping) 
