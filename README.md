@@ -25,6 +25,10 @@ Contoh hasil Relative Layout :
 # 3.	Constraint Layout
 Constarint Layout memungkinkan kita membuat tata letak yang besar dan kompleks dengan tampilan datar. Ini hampir mirip dengan Relative Layout karena semua tampilan ditata berdasarkan hubungan antara satu objek dengan yang lain, tetapi lebih fleksibel daripada RelativeLayout dan lebih mudah digunakan dengan Editor Layout Android Studio.
 
+Contoh hasil Constraint Layout :
+
+![alt text](Hasil/Constraint.jpg)
+
 Selengkapnya bisa dilihat [disini](https://darmanto.akakom.ac.id/praktikandroid/Modul%203%20Praktikum%20Pemrograman%20Mobile.pdf)
 
 
